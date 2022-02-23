@@ -1,6 +1,13 @@
+function Test(){
+
+    return (
+     <h2>THIS IS TEST</h2>)
+}
+
+
 ReactDOM.render(
- <ul>
-     <li>Once</li>
-     <li>Twice</li>
- </ul>,document.getElementById("name")
+  
+ <Test></Test>
+ 
+ ,document.getElementById("root")
 )
