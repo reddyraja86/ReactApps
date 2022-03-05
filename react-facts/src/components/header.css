@@ -1,0 +1,52 @@
+.header{
+    
+    position: absolute;
+    width: 550px;
+    height: 91px;
+    left: 0px;
+    top: 0px;
+
+    background: #21222A;
+}
+
+
+.headerlogo{
+    height: 50.473236083984375px;
+    width: 50.538127899169922px;
+    left: 30.21484375px;
+    top: 30.2424163818359375px;
+    border-radius: 0px;
+
+}
+.headerFont{
+    position: absolute;
+    width: 122.39px;
+    height: 22.25px;
+    left: 61.61px;
+    top: 31px;
+    color: #61DAFB;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32.2535px;
+    line-height: 27px;
+    letter-spacing: -0.05em;
+
+  
+}
+.headerTitle{
+    position: absolute;
+    width: 259px;
+    height: 21px;
+    left: 264px;
+    top: 38px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    
+    color: #DEEBF8;   
+}

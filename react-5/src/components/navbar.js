@@ -1,6 +1,15 @@
 function Navbar(){
     return (
-        <h1>This is Navbar</h1>
+     <header>
+        <nav >
+            <img src="../images/react-logo.svg" ></img>
+            <ul className="nav-items">
+                <li>Pricing</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+     </header>
     )
 }
 

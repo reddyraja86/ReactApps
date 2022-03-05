@@ -1,0 +1,26 @@
+
+.mainbody{
+    height: 1000px;
+    background: black;
+}
+.mainheading {
+    
+position: absolute;
+width: 424px;
+height: 41px;
+left: 27px;
+top: 148px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 39.06px;
+line-height: 47px;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+
+}
+.points{
+    color: #FFFFFF; 
+}
